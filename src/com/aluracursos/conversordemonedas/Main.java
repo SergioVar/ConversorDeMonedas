@@ -1,3 +1,5 @@
+package com.aluracursos.conversordemonedas;
+
 import java.util.Scanner;
 
 public class Main {

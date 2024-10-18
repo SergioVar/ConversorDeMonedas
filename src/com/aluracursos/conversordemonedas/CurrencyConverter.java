@@ -1,3 +1,5 @@
+package com.aluracursos.conversordemonedas;
+
 public class CurrencyConverter {
     private ExchangeRateAPI exchangeRateAPI;
 
